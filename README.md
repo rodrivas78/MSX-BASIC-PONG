@@ -1,6 +1,6 @@
 MyPONG - MSX_BASIC
 
-Written to run in a MSX (1.0/1.1 or higher).
+Written to run in a MSX (1.0/1.1 or higher) computer.
 
 Player 1 use keyboard (up and down keys) / Player 2 use joystick
 
