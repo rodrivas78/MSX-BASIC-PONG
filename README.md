@@ -1,5 +1,7 @@
 MyPONG - MSX_BASIC
 
+Did this as an exercise of BASIC.
+
 Written to run in a MSX1 or higher. 
 
 Player 1 use keyboard (up and down keys) / Player 2 use joystick
