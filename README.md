@@ -13,10 +13,10 @@ Version 3 is identical to version 2 but is configured for 1 player (use all the 
 Below links to play online:
 
 Version 2:
-https://msxpen.com/codes/-MOjXfPEkctv4rRwfKG3
+https://msxpen.com/codes/-MOjjA3MiIJvnGoxnItW
 
 Version 3 (for one player):
-https://msxpen.com/codes/-MOjN82qSr0Xrtcd8mGG
+https://msxpen.com/codes/-MOjigYTi4oFoD5qUfAa
 
 
 
