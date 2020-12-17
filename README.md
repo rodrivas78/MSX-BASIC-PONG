@@ -17,7 +17,7 @@ https://msxpen.com/codes/-MOjXfPEkctv4rRwfKG3
 Version 3 (one player):
 https://msxpen.com/codes/-MOjN82qSr0Xrtcd8mGG
 
-<a href="#" target="_blank" rel="noopener noreferrer">https://msxpen.com/codes/-MOjXfPEkctv4rRwfKG3</a>
+<a href="https://msxpen.com/codes/-MOjXfPEkctv4rRwfKG3" target="blank" rel="noopener noreferrer">https://msxpen.com/codes/-MOjXfPEkctv4rRwfKG3</a>
 
 
 If you want to adjust the number of turns (by default it is 7 points), change the line 740.  Put the value of C and D.
