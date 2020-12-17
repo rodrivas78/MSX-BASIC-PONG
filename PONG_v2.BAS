@@ -64,7 +64,7 @@
 1080 PSET(80,90),1:COLOR15:PRINT#1,"PLAYER 2 WINS!!!":FOR J=0 TO 1000:NEXT:J=0
 1090 FORF=1TO14:PSET(80,90),1:COLOR F:PRINT#1,"PLAYER 2 WINS!!!":NEXT
 1120 FOR U=1 TO 2000:NEXT
-1130 PSET(30,120),1:COLOR 15:KEY OFF:INPUT"                                                                                               PLAY AGAIN?                                                                   (Y)es or (N)o";V$
+1130 PSET(30,120),1:COLOR 15:KEY OFF:INPUT"                                                                                               PLAY AGAIN?                                                           (Y)es or (N)o";V$
 1140 IF V$="y" OR V$="Y" THEN 1150 ELSE 1160
 1150 CLOSE1:GOTO20
 1160 END
