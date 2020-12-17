@@ -1,4 +1,4 @@
-10 'my PONG -  MSX-BASIC - by Rodrigo Rivas (rodrivas)
+10 'myPONG -  MSX-BASIC - by Rodrivas78
 20 COLOR 15,1,1:SCREEN 2,2,0
 30 OPEN"GRP:"AS#1
 40 LINE(10,10)-(255,10)
