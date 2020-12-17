@@ -2,7 +2,7 @@ MyPONG - MSX_BASIC
 
 I did this as an exercise of BASIC.
 Written to run in a MSX1 or higher. 
-Player 1 use keyboard (up and down keys) / Player 2 use joystick
+Player 1 use keyboard (up and down arrow keys) / Player 2 use joystick
 
 If you intend to study the code I recommend that you use the version 1 code (PONG.BAS).
 
@@ -17,6 +17,7 @@ https://msxpen.com/codes/-MOjXfPEkctv4rRwfKG3
 Version 3 (one player):
 https://msxpen.com/codes/-MOjN82qSr0Xrtcd8mGG
 
+<a href="http://www.WEBSITE_NAME.com"></a>
 
 If you want to adjust the number of turns (by default it is 7 points), change the line 740.  Put the value of C and D.
 
